@@ -1,0 +1,2345 @@
+
+                {
+                    "neighborCount": 18,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WAREJR",
+                            "fullName": "JOHN D WAREJR"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WARE",
+                            "fullName": "JOHN D WARE"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WARE",
+                            "fullName": "JOHN J WARE"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WARE",
+                            "fullName": "JOHN DAVIS WARE"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WARE",
+                            "fullName": "JOHN D WARE"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "Completed College",
+                        "highschool": {
+                            "classSize": 127,
+                            "graduationYear": 1990,
+                            "schoolName": "SANTALUCES HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "33435",
+                            "city": "BOYNTON BEACH",
+                            "streetAddress": "140 NE 19TH AVE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5254,
+                                "lng": -80.061
+                            }
+                        },
+                        {
+                            "zip": "33435",
+                            "city": "BOYNTON BEACH",
+                            "streetAddress": "821 NW 4TH ST",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5254,
+                                "lng": -80.061
+                            }
+                        },
+                        {
+                            "zip": "33435",
+                            "city": "BOYNTON BEACH",
+                            "streetAddress": "821 4TH ST",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5254,
+                                "lng": -80.061
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "5618007529"
+                    ],
+                    "suffix": "JR",
+                    "emails": [
+                        "response19pbso@yahoo.com",
+                        "response19pbso@yahoo.com",
+                        "jw43mac@hotmail.com",
+                        "a_chanze@yahoo.com",
+                        "response19pbso@yahoo.com"
+                    ],
+                    "incomeRange": "90 - 99,999",
+                    "qualityScore": 9,
+                    "race": "African American",
+                    "jobs": [
+                        {
+                            "address": {
+                                "zip": "33311",
+                                "city": "Oakland Park",
+                                "state": "FL"
+                            },
+                            "company": "U And D Shoes",
+                            "dates": {
+                                "startYear": 0
+                            },
+                            "title": "Vice President"
+                        }
+                    ],
+                    "celebrityProfile": false,
+                    "netWorthRange": "$100,000 - $249,999",
+                    "homeValue": 76.0,
+                    "relatives": [
+                        {
+                            "firstname": "GREGORY",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "K",
+                            "dateOfBirth": -314208000000,
+                            "reputationScore": 584.25,
+                            "lastname": "DAVIS"
+                        },
+                        {
+                            "firstname": "DORA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "J",
+                            "dateOfBirth": -786214800000,
+                            "reputationScore": 815.9203645833334,
+                            "lastname": "ALLEN"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true
+                            },
+                            "middlename": "DAVIS",
+                            "dateOfBirth": -754934400000,
+                            "reputationScore": 612.75,
+                            "lastname": "WARE"
+                        },
+                        {
+                            "firstname": "JANICE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "R",
+                            "dateOfBirth": -346953600000,
+                            "reputationScore": 555.75,
+                            "lastname": "DAVIS"
+                        },
+                        {
+                            "firstname": "BRIDGET",
+                            "deleted": false,
+                            "middlename": "VANEZIA",
+                            "dateOfBirth": 66470400000,
+                            "reputationScore": 744.44375,
+                            "lastname": "WARE"
+                        },
+                        {
+                            "firstname": "LEKEIYA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true
+                            },
+                            "middlename": "L",
+                            "dateOfBirth": 700214400000,
+                            "reputationScore": 565.25,
+                            "lastname": "DAVIS"
+                        },
+                        {
+                            "firstname": "JENEA",
+                            "deleted": false,
+                            "middlename": "GREGDREKA",
+                            "dateOfBirth": 506419200000,
+                            "reputationScore": 836.0,
+                            "lastname": "DAVIS"
+                        },
+                        {
+                            "firstname": "KATRENA",
+                            "deleted": false,
+                            "middlename": "S",
+                            "dateOfBirth": 572601600000,
+                            "reputationScore": 817.0,
+                            "lastname": "DAVIS"
+                        }
+                    ],
+                    "lastname": "WARE",
+                    "religion": "Christian",
+                    "homePurchasePrice": 76.0,
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "W",
+                    "fullName": "JOHN DAVIS WARE",
+                    "lastAndFirst": "WARE:JOHN",
+                    "streetAddress": "4407 SW WABASH ST",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34953",
+                    "_geoloc": {
+                        "lat": 27.2625,
+                        "lng": -80.3793
+                    },
+                    "dob": 53938800,
+                    "score": 880.0710257161459,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2651359795"
+                },
+                {
+                    "neighborCount": 16,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WESTLING",
+                            "fullName": "JOHN A WESTLING"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WESTLING",
+                            "fullName": "JOHN A WESTLING"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WESTLING",
+                            "fullName": "JOHN ANDREW WESTLING"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "WESTLING",
+                            "fullName": "JOHN ANDREW WESTLING"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "Some College",
+                        "highschool": {
+                            "classSize": 85,
+                            "graduationYear": 1990,
+                            "schoolName": "BROOKE HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "15136",
+                            "streetAddress": "7 WELLINGTON CT",
+                            "city": "ROBINSON",
+                            "state": "PA",
+                            "_geoloc": {
+                                "lat": 40.4717,
+                                "lng": -80.0876
+                            }
+                        },
+                        {
+                            "zip": "15136",
+                            "streetAddress": "7 WELLINGTON CT",
+                            "city": "MC KEES ROCKS",
+                            "state": "PA",
+                            "_geoloc": {
+                                "lat": 40.4717,
+                                "lng": -80.0876
+                            }
+                        },
+                        {
+                            "zip": "34987",
+                            "streetAddress": "10519 SW SOUTHGATE CT",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2606,
+                                "lng": -80.4771
+                            }
+                        }
+                    ],
+                    "politicalParty": "Republican",
+                    "suffix": "SR",
+                    "emails": [
+                        "john@thewestlings.com"
+                    ],
+                    "incomeRange": "90 - 99,999",
+                    "qualityScore": 11,
+                    "hasKids": true,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$100,000 - $249,999",
+                    "homeValue": 210.0,
+                    "relatives": [
+                        {
+                            "firstname": "DAWNAS",
+                            "deleted": false,
+                            "dateOfBirth": -970934400000,
+                            "reputationScore": 712.5,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "DONNA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "K",
+                            "dateOfBirth": -899913600000,
+                            "suffix": "SR",
+                            "reputationScore": 783.75,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "DOUGLAS",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "STENGER",
+                            "dateOfBirth": -970934400000,
+                            "suffix": "SR",
+                            "reputationScore": 726.75,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "DESAH",
+                            "deleted": true,
+                            "middlename": "R",
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "DESAHRAE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "RAE",
+                            "dateOfBirth": 24303600000,
+                            "reputationScore": 394.25,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "MELISSA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "MARKOVICH",
+                            "dateOfBirth": 8064000000,
+                            "reputationScore": 622.25,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "LESLIE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "JOY",
+                            "dateOfBirth": -74019600000,
+                            "reputationScore": 745.75,
+                            "lastname": "WESTLING"
+                        },
+                        {
+                            "firstname": "KEVIN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "LEE",
+                            "dateOfBirth": -135968400000,
+                            "reputationScore": 532.0,
+                            "lastname": "WESTLING"
+                        }
+                    ],
+                    "religion": "Christian",
+                    "lastname": "WESTLING",
+                    "homePurchasePrice": 210.0,
+                    "opinions": [
+                        "Tax Issues",
+                        "Evangelical"
+                    ],
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "W",
+                    "fullName": "JOHN ANDREW WESTLING",
+                    "lastAndFirst": "WESTLING:JOHN",
+                    "streetAddress": "6079 NW REGENT ST",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34983",
+                    "_geoloc": {
+                        "lat": 27.3094,
+                        "lng": -80.345
+                    },
+                    "bankruptcies": true,
+                    "dob": 66729600,
+                    "score": 873.0160714285714,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2687032550"
+                },
+                {
+                    "neighborCount": 10,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BRAWNER",
+                            "fullName": "JOHN ALEXANDER BRAWNER"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BRAWNER",
+                            "fullName": "JOHN A BRAWNER"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "High School",
+                        "highschool": {
+                            "classSize": 113,
+                            "graduationYear": 1989,
+                            "schoolName": "NORTHEAST HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34952",
+                            "streetAddress": "2114 BELLA VISTA WAY",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2889,
+                                "lng": -80.298
+                            }
+                        },
+                        {
+                            "zip": "33326",
+                            "streetAddress": "15845 E WIND CIR",
+                            "city": "SUNRISE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.1158,
+                                "lng": -80.3681
+                            }
+                        },
+                        {
+                            "zip": "33069",
+                            "streetAddress": "3575 W ATLANTIC BLVD APT 109",
+                            "city": "POMPANO BEACH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.2288,
+                                "lng": -80.1635
+                            }
+                        }
+                    ],
+                    "politicalParty": "Republican",
+                    "phones": [
+                        "9545915777"
+                    ],
+                    "emails": [
+                        "junglej712001@yahoo.com",
+                        "john.brawner@webtv.net",
+                        "junglej712001@yahoo.com"
+                    ],
+                    "incomeRange": "80 - 89,999",
+                    "qualityScore": 8,
+                    "hasKids": false,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$100,000 - $249,999",
+                    "homeValue": 132.0,
+                    "relatives": [
+                        {
+                            "firstname": "GERALD",
+                            "deleted": true,
+                            "middlename": "G",
+                            "lastname": "BRAWNER"
+                        },
+                        {
+                            "firstname": "GERALD",
+                            "deleted": false,
+                            "middlename": "GLENN",
+                            "dateOfBirth": -806173200000,
+                            "reputationScore": 712.5,
+                            "lastname": "BRAWNER"
+                        },
+                        {
+                            "firstname": "MICHAEL",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "S",
+                            "dateOfBirth": 182674800000,
+                            "reputationScore": 627.0,
+                            "lastname": "BRAWNER"
+                        },
+                        {
+                            "firstname": "ANDREW",
+                            "deleted": false,
+                            "middlename": "JOSEPH",
+                            "dateOfBirth": 148114800000,
+                            "reputationScore": 745.75,
+                            "lastname": "BRAWNER"
+                        },
+                        {
+                            "firstname": "INGE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "E",
+                            "dateOfBirth": -288547200000,
+                            "reputationScore": 655.5,
+                            "lastname": "CEGLIA"
+                        },
+                        {
+                            "firstname": "INGRID",
+                            "deleted": true,
+                            "middlename": "E",
+                            "lastname": "DE CEGLIA"
+                        },
+                        {
+                            "firstname": "JOANNE",
+                            "deleted": false,
+                            "middlename": "U",
+                            "dateOfBirth": -799693200000,
+                            "reputationScore": 793.25,
+                            "lastname": "BRAWNER"
+                        }
+                    ],
+                    "lastname": "BRAWNER",
+                    "religion": "Christian",
+                    "homePurchasePrice": 132.0,
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "B",
+                    "fullName": "JOHN A BRAWNER",
+                    "lastAndFirst": "BRAWNER:JOHN",
+                    "streetAddress": "1921 SE MICCO DR",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34952",
+                    "_geoloc": {
+                        "lat": 27.2889,
+                        "lng": -80.298
+                    },
+                    "dob": 38822400,
+                    "score": 861.84,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "265416158"
+                },
+                {
+                    "neighborCount": 42,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "SCHOONOVER",
+                            "fullName": "JOHN P SCHOONOVER"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "SCHOONOVER",
+                            "fullName": "JOHN P SCHOONOVER"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "High School"
+                    },
+                    "gender": "M",
+                    "politicalParty": "Democrat",
+                    "pastAddresses": [
+                        {
+                            "zip": "34983",
+                            "streetAddress": "1767 SE ANECI ST",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "34997",
+                            "streetAddress": "5510 SE 53RD AVE",
+                            "city": "STUART",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.1398,
+                                "lng": -80.2129
+                            }
+                        },
+                        {
+                            "zip": "33469",
+                            "streetAddress": "19117 SE HILLCREST DR",
+                            "city": "JUPITER",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.9831,
+                                "lng": -80.108
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7729249800",
+                        "7722197478"
+                    ],
+                    "suffix": "SR",
+                    "emails": [
+                        "scottschoonover33@yahoo.com",
+                        "jschoon68@gmail.com",
+                        "jonscoon@att.net",
+                        "jschoonover@bellsouth.net",
+                        "jonscoon@att.net"
+                    ],
+                    "incomeRange": "70 - 79,999",
+                    "qualityScore": 8,
+                    "hasKids": true,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "Greater than $499,999",
+                    "homeValue": 143.0,
+                    "relatives": [
+                        {
+                            "firstname": "JOHN",
+                            "deleted": true,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "AMY",
+                            "deleted": true,
+                            "middlename": "L",
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "KAITLYNN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "MARIE",
+                            "dateOfBirth": 813308400000,
+                            "reputationScore": 536.8538897949887,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "AMY",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "LYNN",
+                            "dateOfBirth": 742806000000,
+                            "reputationScore": 522.5,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "DOUGLAS",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true
+                            },
+                            "middlename": "FRANK",
+                            "dateOfBirth": -1008172800000,
+                            "reputationScore": 546.25,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "MARCELLA",
+                            "deleted": false,
+                            "middlename": "A",
+                            "dateOfBirth": -129484800000,
+                            "reputationScore": 764.75,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "BRENDA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "E",
+                            "dateOfBirth": 71740800000,
+                            "reputationScore": 384.75,
+                            "lastname": "HEGNER"
+                        },
+                        {
+                            "firstname": "PATRICIA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "ANN",
+                            "dateOfBirth": -1002556800000,
+                            "reputationScore": 356.25,
+                            "lastname": "SCHOONOVER"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "P",
+                            "dateOfBirth": 637315200000,
+                            "reputationScore": 532.0,
+                            "lastname": "SCHOONOVER"
+                        }
+                    ],
+                    "religion": "Christian",
+                    "lastname": "SCHOONOVER",
+                    "homePurchasePrice": 143.0,
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "S",
+                    "fullName": "JOHN PHILLIP SCHOONOVER",
+                    "lastAndFirst": "SCHOONOVER:JOHN",
+                    "streetAddress": "1867 SE VESTHAVEN CT",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34952",
+                    "_geoloc": {
+                        "lat": 27.2889,
+                        "lng": -80.298
+                    },
+                    "dob": 36662400,
+                    "score": 857.2739563556785,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2275654890"
+                },
+                {
+                    "neighborCount": 24,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "BEDNARCIK",
+                            "lastname": "BEDNARCIK IRIS",
+                            "fullName": "BEDNARCIK JOHN BEDNARCIK IRIS"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BEDNARICK",
+                            "fullName": "JOHN BEDNARICK"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BEDNACIK",
+                            "fullName": "JOHN L BEDNACIK"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BEDNARCIK",
+                            "fullName": "JOHN L BEDNARCIK"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BEDNACRIK",
+                            "fullName": "JOHN LOUIS BEDNACRIK"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "BEDNARCIK",
+                            "fullName": "JOHN LOUIS BEDNARCIK"
+                        }
+                    ],
+                    "education": {
+                        "highschool": {
+                            "classSize": 8,
+                            "graduationYear": 1989,
+                            "schoolName": "MUENSTER HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34953",
+                            "streetAddress": "1634 SW COBALT ST",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2625,
+                                "lng": -80.3793
+                            }
+                        },
+                        {
+                            "zip": "34953",
+                            "streetAddress": "3598 SW SAN BENITO ST",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2625,
+                                "lng": -80.3793
+                            }
+                        },
+                        {
+                            "zip": "34953",
+                            "streetAddress": "3497 SW SAN BENITO ST",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2625,
+                                "lng": -80.3793
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7723428937",
+                        "7723605572"
+                    ],
+                    "emails": [
+                        "john605p@aol.com",
+                        "john5@conok.com",
+                        "jija1995@aol.com",
+                        "john605p@cs.com"
+                    ],
+                    "incomeRange": "40 - 49,999",
+                    "qualityScore": 7,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$25,000 - $49,999",
+                    "homeValue": 91.0,
+                    "relatives": [
+                        {
+                            "firstname": "JOHN",
+                            "deleted": false,
+                            "middlename": "LOUIS",
+                            "dateOfBirth": 33033600000,
+                            "reputationScore": 712.5,
+                            "lastname": "BEDNARCIK"
+                        },
+                        {
+                            "firstname": "ALLEXIS",
+                            "deleted": false,
+                            "middlename": "HAILEY",
+                            "dateOfBirth": 931849200000,
+                            "reputationScore": 712.5,
+                            "lastname": "BEDNARCIK"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "LOUIS",
+                            "dateOfBirth": 780130800000,
+                            "reputationScore": 565.25,
+                            "lastname": "BEDNARCIK"
+                        },
+                        {
+                            "firstname": "IRIS",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "JOI",
+                            "dateOfBirth": 201423600000,
+                            "reputationScore": 650.75,
+                            "lastname": "BEDNARCIK"
+                        }
+                    ],
+                    "lastname": "BEDNARCIK",
+                    "religion": "Christian",
+                    "homePurchasePrice": 4.0,
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "B",
+                    "fullName": "JOHN LOUIS BEDNARCIK",
+                    "lastAndFirst": "BEDNARCIK:JOHN",
+                    "streetAddress": "2667 SW FAIR ISLE RD",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34987",
+                    "_geoloc": {
+                        "lat": 27.2606,
+                        "lng": -80.4771
+                    },
+                    "dob": 33033600,
+                    "score": 854.7625,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "171761209"
+                },
+                {
+                    "neighborCount": 5,
+                    "firstname": "JUAN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "RAMALLO",
+                            "fullName": "JOHN J RAMALLO"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "RAMALLO",
+                            "fullName": "JUAN P RAMALLO"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "RAMALLO",
+                            "fullName": "JUAN J RAMALLO"
+                        }
+                    ],
+                    "education": {
+                        "highschool": {
+                            "classSize": 49,
+                            "graduationYear": 1989,
+                            "schoolName": "RIVERSIDE HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34952",
+                            "streetAddress": "1565 SE ROYAL GREEN CIR APT A204",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2889,
+                                "lng": -80.298
+                            }
+                        },
+                        {
+                            "zip": "14228",
+                            "streetAddress": "31 WESTWIND LN",
+                            "city": "BUFFALO",
+                            "state": "NY",
+                            "_geoloc": {
+                                "lat": 43.0408,
+                                "lng": -78.7812
+                            }
+                        },
+                        {
+                            "zip": "14094",
+                            "streetAddress": "302 DOGWOOD DR",
+                            "city": "LOCKPORT",
+                            "state": "NY",
+                            "_geoloc": {
+                                "lat": 43.16,
+                                "lng": -78.6923
+                            }
+                        }
+                    ],
+                    "suffix": "JR",
+                    "emails": [
+                        "fx84lowrider@yahoo.com",
+                        "juanjramallo71@gmail.com",
+                        "barenaked14209@aol.com",
+                        "fx84lowrider@yahoo.com"
+                    ],
+                    "incomeRange": "70 - 79,999",
+                    "qualityScore": 8,
+                    "race": "Hispanic American",
+                    "jobs": [
+                        {
+                            "company": "",
+                            "dates": {
+                                "startYear": 0
+                            },
+                            "title": "uaw\t"
+                        }
+                    ],
+                    "celebrityProfile": false,
+                    "netWorthRange": "$10,000 - $24,999",
+                    "relatives": [
+                        {
+                            "firstname": "BRITTANEE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "KIARA",
+                            "dateOfBirth": 758620800000,
+                            "reputationScore": 522.5,
+                            "lastname": "RAMALLO"
+                        },
+                        {
+                            "firstname": "JAKOB",
+                            "deleted": false,
+                            "middlename": "R",
+                            "dateOfBirth": 901522800000,
+                            "reputationScore": 712.5,
+                            "lastname": "RAMALLO"
+                        },
+                        {
+                            "firstname": "JUANA",
+                            "deleted": false,
+                            "middlename": "B",
+                            "dateOfBirth": -936633600000,
+                            "reputationScore": 712.5,
+                            "lastname": "RAMALLO"
+                        },
+                        {
+                            "firstname": "JANET",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "bankruptcies": true
+                            },
+                            "middlename": "MARY",
+                            "dateOfBirth": 90921600000,
+                            "reputationScore": 598.5,
+                            "lastname": "VOLK"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "deleted": false,
+                            "dateOfBirth": -988387200000,
+                            "reputationScore": 798.0,
+                            "lastname": "RAMALLO"
+                        },
+                        {
+                            "firstname": "MARIE",
+                            "deleted": false,
+                            "middlename": "C",
+                            "dateOfBirth": -41619600000,
+                            "reputationScore": 831.25,
+                            "lastname": "HURREN"
+                        }
+                    ],
+                    "religion": "Christian",
+                    "lastname": "RAMALLO",
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "R",
+                    "fullName": "JUAN J RAMALLO",
+                    "lastAndFirst": "RAMALLO:JUAN",
+                    "streetAddress": "1565 SE ROYAL GREEN CIR APT 204",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34952",
+                    "_geoloc": {
+                        "lat": 27.2889,
+                        "lng": -80.298
+                    },
+                    "dob": 47977200,
+                    "score": 851.79375,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "45837221197"
+                },
+                {
+                    "neighborCount": 31,
+                    "firstname": "SEAN",
+                    "aliases": [
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "CAMILO",
+                            "fullName": "SEAN J CAMILO"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "CAMILLO",
+                            "fullName": "SEAN J CAMILLO"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "CAMILO",
+                            "fullName": "SEAN CAMILO"
+                        },
+                        {
+                            "firstname": "CAMILLO",
+                            "lastname": "SEAN",
+                            "fullName": "CAMILLO SEAN"
+                        }
+                    ],
+                    "education": {
+                        "highschool": {
+                            "classSize": 57,
+                            "graduationYear": 1990,
+                            "schoolName": "JONATHAN LAW HIGH SCHOOL"
+                        }
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34983",
+                            "streetAddress": "1433 SW GLASTONBERRY AVE",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "34953",
+                            "streetAddress": "1433 SW GLASTONBERRY AVE",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2625,
+                                "lng": -80.3793
+                            }
+                        },
+                        {
+                            "zip": "34953",
+                            "streetAddress": "832 SW CANARY TER",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2625,
+                                "lng": -80.3793
+                            }
+                        }
+                    ],
+                    "politicalParty": "Republican",
+                    "emails": [
+                        "thewonderofitall@bellsouth.net",
+                        "toratora5150@att.net",
+                        "helloimrosa@yahoo.com",
+                        "sean.camillo@gmail.com",
+                        "toratora5150@att.net"
+                    ],
+                    "incomeRange": "90 - 99,999",
+                    "qualityScore": 13,
+                    "hasKids": true,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$25,000 - $49,999",
+                    "relatives": [
+                        {
+                            "firstname": "AMERICO",
+                            "deleted": false,
+                            "middlename": "D",
+                            "dateOfBirth": -30124800000,
+                            "suffix": "JR",
+                            "reputationScore": 731.5,
+                            "lastname": "CAMILLO"
+                        },
+                        {
+                            "firstname": "CHARLENE",
+                            "deleted": false,
+                            "middlename": "E",
+                            "dateOfBirth": 42188400000,
+                            "reputationScore": 831.25,
+                            "lastname": "CAMILLO"
+                        },
+                        {
+                            "firstname": "AMERICO",
+                            "deleted": false,
+                            "middlename": "D",
+                            "dateOfBirth": -955123200000,
+                            "suffix": "SR",
+                            "reputationScore": 712.5,
+                            "lastname": "CAMILLO"
+                        },
+                        {
+                            "firstname": "JENNIFER",
+                            "deleted": false,
+                            "middlename": "M",
+                            "dateOfBirth": -826304400000,
+                            "suffix": "SR",
+                            "reputationScore": 783.75,
+                            "lastname": "CAMILLO"
+                        },
+                        {
+                            "firstname": "CHERYL",
+                            "deleted": false,
+                            "middlename": "ANN",
+                            "dateOfBirth": -29692800000,
+                            "reputationScore": 812.25,
+                            "lastname": "SYRETT"
+                        }
+                    ],
+                    "lastname": "CAMILLO",
+                    "religion": "Christian",
+                    "opinions": [
+                        "Tax Issues"
+                    ],
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "S",
+                    "lastnameLetter": "C",
+                    "fullName": "SEAN JOSEPH CAMILLO",
+                    "lastAndFirst": "CAMILLO:SEAN",
+                    "streetAddress": "549 NW CORNELL AVE",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34983",
+                    "_geoloc": {
+                        "lat": 27.3094,
+                        "lng": -80.345
+                    },
+                    "criminalCourtRecords": true,
+                    "bankruptcies": true,
+                    "dob": 82969200,
+                    "score": 841.67428688884,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "355123058"
+                },
+                {
+                    "neighborCount": 28,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "HEBERT",
+                            "fullName": "JOHN A HEBERT"
+                        }
+                    ],
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34983",
+                            "streetAddress": "1690 SE FALLON DR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "34983",
+                            "streetAddress": "401 NW MARION AVE",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "34950",
+                            "streetAddress": "823 SUNRISE BLVD",
+                            "city": "FORT PIERCE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.4486,
+                                "lng": -80.3385
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7724645221"
+                    ],
+                    "emails": [
+                        "jhebes36@aol.com"
+                    ],
+                    "incomeRange": "50 - 59,999",
+                    "qualityScore": 7,
+                    "hasKids": true,
+                    "race": "African American",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$50,000 - $99,999",
+                    "relatives": [
+                        {
+                            "firstname": "LORI",
+                            "deleted": true,
+                            "middlename": "A",
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "MICHELE",
+                            "deleted": true,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "STEVEN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 1
+                            },
+                            "middlename": "D",
+                            "dateOfBirth": -225302400000,
+                            "reputationScore": 546.25,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "ALFRED",
+                            "deleted": false,
+                            "lnFlags": {
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "Z",
+                            "dateOfBirth": -1338220800000,
+                            "reputationScore": 712.5,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "MICHELLE",
+                            "deleted": false,
+                            "middlename": "M",
+                            "dateOfBirth": -119721600000,
+                            "reputationScore": 807.5,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "DONALD",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "ALCIDE",
+                            "dateOfBirth": -960739200000,
+                            "reputationScore": 726.75,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "MARIE",
+                            "deleted": false,
+                            "dateOfBirth": -1602691200000,
+                            "reputationScore": 779.0,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "ADRIENNE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "M",
+                            "dateOfBirth": -899049600000,
+                            "reputationScore": 726.75,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "LORI",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "A",
+                            "dateOfBirth": -162489600000,
+                            "reputationScore": 522.5,
+                            "lastname": "HEBERT"
+                        },
+                        {
+                            "firstname": "DONALD",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "A",
+                            "dateOfBirth": -960739200000,
+                            "reputationScore": 783.75,
+                            "lastname": "HEBERT"
+                        }
+                    ],
+                    "religion": "Christian",
+                    "lastname": "HEBERT",
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "H",
+                    "fullName": "JOHN A HEBERT",
+                    "lastAndFirst": "HEBERT:JOHN",
+                    "streetAddress": "1117 SW SARTO LN",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34953",
+                    "_geoloc": {
+                        "lat": 27.2625,
+                        "lng": -80.3793
+                    },
+                    "civilCourtRecordCount": 3,
+                    "dob": 53420400,
+                    "score": 828.13875,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "1091935757"
+                },
+                {
+                    "neighborCount": 14,
+                    "firstname": "SEAN",
+                    "aliases": [
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "FREEMAN",
+                            "fullName": "SEAN PATRICK FREEMAN"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "FREEMAN",
+                            "fullName": "SEAN P FREEMAN"
+                        },
+                        {
+                            "firstname": "PATRICK",
+                            "lastname": "FREEMAN",
+                            "fullName": "PATRICK S FREEMAN"
+                        },
+                        {
+                            "firstname": "FREEMAN",
+                            "lastname": "PATRICK",
+                            "fullName": "FREEMAN SEAN PATRICK"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "Some College"
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34986",
+                            "streetAddress": "6017 NW WINFIELD DR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3215,
+                                "lng": -80.403
+                            }
+                        },
+                        {
+                            "zip": "34986",
+                            "streetAddress": "6093 NW EAST DEVILLE CIR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3215,
+                                "lng": -80.403
+                            }
+                        },
+                        {
+                            "zip": "34983",
+                            "streetAddress": "595 NE CANOE PARK CIR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7723234775",
+                        "4082189758",
+                        "7722165310"
+                    ],
+                    "emails": [
+                        "smnfreeman@comcast.net",
+                        "sfreeman3294@alltel.net",
+                        "spfreeman@hotmail.com"
+                    ],
+                    "incomeRange": "90 - 99,999",
+                    "qualityScore": 7,
+                    "hasKids": false,
+                    "race": "Caucasian",
+                    "jobs": [
+                        {
+                            "company": "Lambourn Koi and Pond Supplies",
+                            "dates": {
+                                "startYear": 0
+                            },
+                            "title": "Owner"
+                        }
+                    ],
+                    "celebrityProfile": false,
+                    "netWorthRange": "$100,000 - $249,999",
+                    "relatives": [
+                        {
+                            "firstname": "BRUCE",
+                            "deleted": true,
+                            "middlename": "ALLEN",
+                            "suffix": "II",
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "TAYLOR",
+                            "deleted": false,
+                            "middlename": "NICHOLE",
+                            "dateOfBirth": 809074800000,
+                            "reputationScore": 712.5,
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "LYNDA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "dateOfBirth": -207939600000,
+                            "reputationScore": 764.75,
+                            "lastname": "MCNEAL"
+                        },
+                        {
+                            "firstname": "BRUCE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true
+                            },
+                            "middlename": "ALLEN",
+                            "dateOfBirth": -128016000000,
+                            "suffix": "JR",
+                            "reputationScore": 546.25,
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "BRENDA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "M",
+                            "dateOfBirth": 192700800000,
+                            "reputationScore": 774.25,
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "LINDA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "dateOfBirth": -858790800000,
+                            "reputationScore": 641.25,
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "DENESE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "MARIE",
+                            "dateOfBirth": -177181200000,
+                            "reputationScore": 522.5,
+                            "lastname": "FREEMAN"
+                        },
+                        {
+                            "firstname": "BRUCE",
+                            "deleted": false,
+                            "middlename": "F",
+                            "dateOfBirth": -895593600000,
+                            "reputationScore": 812.25,
+                            "lastname": "FREEMAN"
+                        }
+                    ],
+                    "lastname": "FREEMAN",
+                    "religion": "Christian",
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "S",
+                    "lastnameLetter": "F",
+                    "fullName": "SEAN P FREEMAN",
+                    "lastAndFirst": "FREEMAN:SEAN",
+                    "streetAddress": "5674 NW ATHENS CT",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34986",
+                    "_geoloc": {
+                        "lat": 27.3215,
+                        "lng": -80.403
+                    },
+                    "bankruptcies": true,
+                    "dob": 43657200,
+                    "score": 827.3482142857143,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "862964850"
+                },
+                {
+                    "neighborCount": 13,
+                    "firstname": "JONATHAN",
+                    "aliases": [
+                        {
+                            "firstname": "VERNA",
+                            "lastname": "JONATHAN",
+                            "fullName": "VERNA JONATHAN"
+                        },
+                        {
+                            "firstname": "JONATTAN",
+                            "lastname": "VERNA",
+                            "fullName": "JONATTAN J VERNA"
+                        },
+                        {
+                            "firstname": "JONATHAN",
+                            "lastname": "VERNA",
+                            "fullName": "JONATHAN J VERNA"
+                        },
+                        {
+                            "firstname": "JONATHAN",
+                            "lastname": "VERNA",
+                            "fullName": "JONATHAN J VERNA"
+                        }
+                    ],
+                    "education": {
+                        "educationLevel": "High School"
+                    },
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34982",
+                            "streetAddress": "5913 SPRUCE DR",
+                            "city": "FORT PIERCE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3908,
+                                "lng": -80.3246
+                            }
+                        },
+                        {
+                            "zip": "34983",
+                            "streetAddress": "777 SE FLORESTA DR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "34983",
+                            "streetAddress": "777 FLORESTA DR",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7723441768"
+                    ],
+                    "suffix": "JR",
+                    "emails": [
+                        "reelfast225@aol.com",
+                        "reelfast225@aol.com"
+                    ],
+                    "incomeRange": "60 - 69,999",
+                    "qualityScore": 6,
+                    "hasKids": true,
+                    "race": "Caucasian",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$25,000 - $49,999",
+                    "homeValue": 70.0,
+                    "lastname": "VERNA",
+                    "religion": "Christian",
+                    "homePurchasePrice": 70.0,
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "V",
+                    "fullName": "JONATHAN J VERNA",
+                    "lastAndFirst": "VERNA:JONATHAN",
+                    "streetAddress": "511 NW COLONIAL ST",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34983",
+                    "_geoloc": {
+                        "lat": 27.3094,
+                        "lng": -80.345
+                    },
+                    "dob": 85647600,
+                    "score": 817.0,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2610226191"
+                },
+                {
+                    "neighborCount": 10,
+                    "firstname": "JUAN",
+                    "aliases": [
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "GUTIERREZ",
+                            "fullName": "JUAN MANUEL GUTIERREZ"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "GUTIERREZ",
+                            "fullName": "JUAN M GUTIERREZ"
+                        }
+                    ],
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "33436",
+                            "streetAddress": "79 CEDAR CIR",
+                            "city": "BOYNTON BEACH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5354,
+                                "lng": -80.1124
+                            }
+                        },
+                        {
+                            "zip": "30607",
+                            "streetAddress": "113 DEER CREEK DR",
+                            "city": "ATHENS",
+                            "state": "GA",
+                            "_geoloc": {
+                                "lat": 34.007,
+                                "lng": -83.4278
+                            }
+                        },
+                        {
+                            "zip": "30606",
+                            "streetAddress": "135 SUSSEX DR APT 20",
+                            "city": "ATHENS",
+                            "state": "GA",
+                            "_geoloc": {
+                                "lat": 33.9461,
+                                "lng": -83.418
+                            }
+                        }
+                    ],
+                    "politicalParty": "Republican",
+                    "phones": [
+                        "7728719896"
+                    ],
+                    "emails": [
+                        "juan.gutierrez@gmail.com",
+                        "johngut@adelphia.net",
+                        "juangut@comcast.net"
+                    ],
+                    "incomeRange": "90 - 99,999",
+                    "qualityScore": 9,
+                    "hasKids": false,
+                    "race": "Hispanic American",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$100,000 - $249,999",
+                    "homeValue": 5.0,
+                    "lastname": "GUTIERREZ",
+                    "religion": "Christian",
+                    "homePurchasePrice": 5.0,
+                    "opinions": [
+                        "Tax Issues",
+                        "Environmentalist",
+                        "Second Amendment Supporter"
+                    ],
+                    "maritalStatus": "Married",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "G",
+                    "fullName": "JUAN MANUEL GUTIERREZ",
+                    "lastAndFirst": "GUTIERREZ:JUAN",
+                    "streetAddress": "5311 NW ALOHA ST",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34986",
+                    "_geoloc": {
+                        "lat": 27.3215,
+                        "lng": -80.403
+                    },
+                    "civilCourtRecordCount": 3,
+                    "dob": 37094400,
+                    "score": 812.25,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "1019718596"
+                },
+                {
+                    "neighborCount": 9,
+                    "hasKids": true,
+                    "firstname": "JUAN",
+                    "aliases": [],
+                    "gender": "M",
+                    "race": "Hispanic American",
+                    "celebrityProfile": false,
+                    "netWorthRange": "$25,000 - $49,999",
+                    "homeValue": 97.0,
+                    "lastname": "CHAVEZ",
+                    "religion": "Christian",
+                    "incomeRange": "10 - 19,999",
+                    "qualityScore": 6,
+                    "homePurchasePrice": 97.0,
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "C",
+                    "fullName": "JUAN CHAVEZ",
+                    "lastAndFirst": "CHAVEZ:JUAN",
+                    "streetAddress": "120 PRINCESS DR",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34952",
+                    "_geoloc": {
+                        "lat": 27.2889,
+                        "lng": -80.298
+                    },
+                    "civilCourtRecordCount": 3,
+                    "dob": 87980400,
+                    "score": 807.5,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "43853776387"
+                },
+                {
+                    "neighborCount": 46,
+                    "firstname": "JOHN",
+                    "aliases": [
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "LACKO",
+                            "fullName": "JOHN J LACKO"
+                        },
+                        {
+                            "firstname": "JOHN",
+                            "lastname": "LACKO",
+                            "fullName": "JOHN J LACKO"
+                        }
+                    ],
+                    "gender": "M",
+                    "race": "Caucasian",
+                    "pastAddresses": [
+                        {
+                            "zip": "33140",
+                            "streetAddress": "4540 ROYAL PALM AVE",
+                            "city": "MIAMI BEACH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 25.8198,
+                                "lng": -80.1337
+                            }
+                        },
+                        {
+                            "zip": "33140",
+                            "streetAddress": "6105 N BAY RD",
+                            "city": "MIAMI BEACH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 25.8198,
+                                "lng": -80.1337
+                            }
+                        },
+                        {
+                            "zip": "38502",
+                            "streetAddress": "PO BOX 3648",
+                            "city": "COOKEVILLE",
+                            "state": "TN",
+                            "_geoloc": {
+                                "lat": 36.1418,
+                                "lng": -85.4548
+                            }
+                        },
+                        {
+                            "zip": "34988",
+                            "streetAddress": "PO BOX 881388",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3868,
+                                "lng": -80.5037
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "3058687137"
+                    ],
+                    "celebrityProfile": false,
+                    "netWorthRange": "Greater than $499,999",
+                    "religion": "Christian",
+                    "lastname": "LACKO",
+                    "incomeRange": "250K+",
+                    "qualityScore": 5,
+                    "maritalStatus": "Single",
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "L",
+                    "fullName": "JOHN J LACKO",
+                    "lastAndFirst": "LACKO:JOHN",
+                    "streetAddress": "631 SE CRESCENT AVE",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34984",
+                    "_geoloc": {
+                        "lat": 27.2655,
+                        "lng": -80.3389
+                    },
+                    "dob": 58262400,
+                    "score": 788.5,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "1440907218"
+                },
+                {
+                    "neighborCount": 8,
+                    "firstname": "SEAN",
+                    "aliases": [
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "QUINN",
+                            "fullName": "SEAN AUSTIN QUINN"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "QUINN",
+                            "fullName": "SEAN A QUINN"
+                        }
+                    ],
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34983",
+                            "streetAddress": "422 SE NARANJA AVE",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.3094,
+                                "lng": -80.345
+                            }
+                        },
+                        {
+                            "zip": "03862",
+                            "streetAddress": "203 LAFAYETTE RD",
+                            "city": "NORTH HAMPTON",
+                            "state": "NH",
+                            "_geoloc": {
+                                "lat": 42.9776,
+                                "lng": -70.8267
+                            }
+                        },
+                        {
+                            "zip": "03862",
+                            "streetAddress": "203 LAFAYETTE RD UNIT 6",
+                            "city": "NORTH HAMPTON",
+                            "state": "NH",
+                            "_geoloc": {
+                                "lat": 42.9776,
+                                "lng": -70.8267
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7722075255"
+                    ],
+                    "celebrityProfile": false,
+                    "suffix": "JR",
+                    "relatives": [
+                        {
+                            "firstname": "DOREEN",
+                            "deleted": false,
+                            "middlename": "A",
+                            "dateOfBirth": -429901200000,
+                            "reputationScore": 779.0,
+                            "lastname": "QUINN"
+                        },
+                        {
+                            "firstname": "WILLIAM",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "ALDEN",
+                            "dateOfBirth": -581619600000,
+                            "reputationScore": 741.0,
+                            "lastname": "QUINN"
+                        },
+                        {
+                            "firstname": "JILL",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "ANN",
+                            "dateOfBirth": 181897200000,
+                            "reputationScore": 818.6313512123529,
+                            "lastname": "QUINN"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "AUSTIN",
+                            "dateOfBirth": 867740400000,
+                            "reputationScore": 804.0481894127531,
+                            "lastname": "QUINN"
+                        }
+                    ],
+                    "lastname": "QUINN",
+                    "qualityScore": 7,
+                    "firstnameLetter": "S",
+                    "lastnameLetter": "Q",
+                    "fullName": "SEAN AUSTIN QUINN",
+                    "lastAndFirst": "QUINN:SEAN",
+                    "streetAddress": "501 SE KYLE RD",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34984",
+                    "_geoloc": {
+                        "lat": 27.2655,
+                        "lng": -80.3389
+                    },
+                    "judgements": true,
+                    "bankruptcies": true,
+                    "dob": 80722800,
+                    "score": 756.3519022214325,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2060709705"
+                },
+                {
+                    "neighborCount": 4,
+                    "hasKids": false,
+                    "firstname": "JUAN",
+                    "aliases": [
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "RODRIGUES",
+                            "fullName": "JUAN A RODRIGUES"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "lastname": "RODRIGUEZ",
+                            "fullName": "JUAN A RODRIGUEZ"
+                        }
+                    ],
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "33462",
+                            "streetAddress": "5 TOPEKA RD",
+                            "city": "LAKE WORTH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5747,
+                                "lng": -80.0794
+                            }
+                        },
+                        {
+                            "zip": "33462",
+                            "streetAddress": "1445 W BLOXHAM ST",
+                            "city": "LANTANA",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.5747,
+                                "lng": -80.0794
+                            }
+                        },
+                        {
+                            "zip": "33460",
+                            "streetAddress": "106 S J ST",
+                            "city": "LAKE WORTH",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 26.6182,
+                                "lng": -80.056
+                            }
+                        }
+                    ],
+                    "celebrityProfile": false,
+                    "relatives": [
+                        {
+                            "firstname": "VICTORIA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "M",
+                            "dateOfBirth": 669456000000,
+                            "reputationScore": 522.5,
+                            "lastname": "RODRIGUEZ"
+                        },
+                        {
+                            "firstname": "CARMEN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "bankruptcies": true
+                            },
+                            "middlename": "N",
+                            "dateOfBirth": -132339600000,
+                            "reputationScore": 703.0,
+                            "lastname": "PENA"
+                        },
+                        {
+                            "firstname": "JUAN",
+                            "deleted": false,
+                            "lnFlags": {
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "R",
+                            "dateOfBirth": -153936000000,
+                            "reputationScore": 855.0,
+                            "lastname": "RODRIGUEZ"
+                        },
+                        {
+                            "firstname": "FABIO",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "bankruptcies": true,
+                                "criminalCourtRecords": true
+                            },
+                            "dateOfBirth": 46940400000,
+                            "reputationScore": 346.75,
+                            "lastname": "PENA"
+                        },
+                        {
+                            "firstname": "MARIE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "R",
+                            "dateOfBirth": -141843600000,
+                            "reputationScore": 755.2071989606231,
+                            "lastname": "RODRIGUEZ"
+                        },
+                        {
+                            "firstname": "SANDRA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "bankruptcies": true,
+                                "civilCourtRecordCount": 3
+                            },
+                            "middlename": "G",
+                            "dateOfBirth": -222624000000,
+                            "reputationScore": 555.75,
+                            "lastname": "LOPEZ"
+                        },
+                        {
+                            "firstname": "JOAQUIN",
+                            "deleted": false,
+                            "reputationScore": 731.5,
+                            "lastname": "RODRIGUEZ"
+                        },
+                        {
+                            "firstname": "ISMAEL",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true,
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "RODRIGUEZ",
+                            "dateOfBirth": 75452400000,
+                            "reputationScore": 0.0,
+                            "lastname": "OLIVAN"
+                        },
+                        {
+                            "firstname": "JASON",
+                            "deleted": false,
+                            "dateOfBirth": 356601600000,
+                            "reputationScore": 712.5,
+                            "lastname": "RODRIGUEZ"
+                        },
+                        {
+                            "firstname": "ISIDRO",
+                            "deleted": false,
+                            "lnFlags": {
+                                "judgements": true
+                            },
+                            "dateOfBirth": -619549200000,
+                            "reputationScore": 546.25,
+                            "lastname": "RODRIGUEZ"
+                        }
+                    ],
+                    "lastname": "RODRIGUEZ",
+                    "qualityScore": 4,
+                    "firstnameLetter": "J",
+                    "lastnameLetter": "R",
+                    "fullName": "JUAN A RODRIGUEZ",
+                    "lastAndFirst": "RODRIGUEZ:JUAN",
+                    "streetAddress": "2150 SW VENUS ST",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34953",
+                    "_geoloc": {
+                        "lat": 27.2625,
+                        "lng": -80.3793
+                    },
+                    "civilCourtRecordCount": 2,
+                    "dob": 44348400,
+                    "score": 752.3243345430923,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "2176665371"
+                },
+                {
+                    "neighborCount": 69,
+                    "hasKids": false,
+                    "firstname": "SEAN",
+                    "aliases": [
+                        {
+                            "firstname": "LEON",
+                            "lastname": "KROFT",
+                            "fullName": "LEON T KROFT"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "KRAFT",
+                            "fullName": "SEAN TIMOTHY KRAFT"
+                        },
+                        {
+                            "firstname": "SEAN",
+                            "lastname": "KRAFT",
+                            "fullName": "SEAN T KRAFT"
+                        }
+                    ],
+                    "gender": "M",
+                    "pastAddresses": [
+                        {
+                            "zip": "34987",
+                            "streetAddress": "11422 SW LAKE PARK DR APT 89",
+                            "city": "PORT SAINT LUCIE",
+                            "state": "FL",
+                            "_geoloc": {
+                                "lat": 27.2606,
+                                "lng": -80.4771
+                            }
+                        },
+                        {
+                            "zip": "37214",
+                            "streetAddress": "2129 BRANCH OAK TRL",
+                            "city": "NASHVILLE",
+                            "state": "TN",
+                            "_geoloc": {
+                                "lat": 36.1633,
+                                "lng": -86.6609
+                            }
+                        },
+                        {
+                            "zip": "71110",
+                            "streetAddress": "1405 BENNINGTON AVE",
+                            "city": "BARKSDALE AFB",
+                            "state": "LA",
+                            "_geoloc": {
+                                "lat": 32.5137,
+                                "lng": -93.6404
+                            }
+                        }
+                    ],
+                    "phones": [
+                        "7346692124",
+                        "4144822373",
+                        "7728005963"
+                    ],
+                    "celebrityProfile": false,
+                    "relatives": [
+                        {
+                            "firstname": "CLAUDIA",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "C",
+                            "reputationScore": 522.5,
+                            "lastname": "KRAFT"
+                        },
+                        {
+                            "firstname": "ZAMIRA",
+                            "deleted": false,
+                            "middlename": "L",
+                            "reputationScore": 750.3600807074919,
+                            "lastname": "HARMAN",
+                            "avatar": "https://s1.mylife.com/photos/028/872/118L.jpg"
+                        },
+                        {
+                            "firstname": "MICHAEL",
+                            "deleted": false,
+                            "middlename": "THOMAS",
+                            "dateOfBirth": 168505200000,
+                            "reputationScore": 712.5,
+                            "lastname": "HARMON"
+                        },
+                        {
+                            "firstname": "ROBERTA",
+                            "deleted": false,
+                            "middlename": "A",
+                            "dateOfBirth": 165913200000,
+                            "reputationScore": 850.25,
+                            "lastname": "HARMON"
+                        },
+                        {
+                            "firstname": "CLIFTON",
+                            "deleted": false,
+                            "middlename": "DAWSON",
+                            "dateOfBirth": -263149200000,
+                            "reputationScore": 802.75,
+                            "lastname": "HARMON"
+                        },
+                        {
+                            "firstname": "ROSALYN",
+                            "deleted": false,
+                            "middlename": "S",
+                            "dateOfBirth": -464457600000,
+                            "reputationScore": 840.75,
+                            "lastname": "HARMON"
+                        },
+                        {
+                            "firstname": "DEZIRAY",
+                            "deleted": false,
+                            "middlename": "NICHOLE",
+                            "dateOfBirth": 343641600000,
+                            "reputationScore": 731.5,
+                            "lastname": "JACKSON"
+                        },
+                        {
+                            "firstname": "JEFFERSON",
+                            "deleted": false,
+                            "middlename": "HOPKINS",
+                            "dateOfBirth": -292525200000,
+                            "suffix": "JR",
+                            "reputationScore": 807.5,
+                            "lastname": "HARMAN"
+                        },
+                        {
+                            "firstname": "GINGER",
+                            "deleted": false,
+                            "middlename": "ANN",
+                            "dateOfBirth": 106210800000,
+                            "reputationScore": 731.5,
+                            "lastname": "KRAFT"
+                        },
+                        {
+                            "firstname": "ROXANNE",
+                            "deleted": false,
+                            "lnFlags": {
+                                "criminalCourtRecords": true
+                            },
+                            "middlename": "LEE",
+                            "dateOfBirth": 225619200000,
+                            "reputationScore": 603.25,
+                            "lastname": "CURTIS-HARMON"
+                        }
+                    ],
+                    "lastname": "KRAFT",
+                    "emails": [
+                        "seankraft9@yahoo.com",
+                        "skraft2@nc.rr.com",
+                        "skraft@nc.rr.com"
+                    ],
+                    "qualityScore": 3,
+                    "firstnameLetter": "S",
+                    "lastnameLetter": "K",
+                    "fullName": "SEAN TIMOTHY KRAFT",
+                    "lastAndFirst": "KRAFT:SEAN",
+                    "streetAddress": "11422 SW LAKE PARK DR",
+                    "city": "PORT SAINT LUCIE",
+                    "state": "FL",
+                    "zip": "34987",
+                    "_geoloc": {
+                        "lat": 27.2606,
+                        "lng": -80.4771
+                    },
+                    "dob": 38476800,
+                    "score": 747.7508880801166,
+                    "metro": "portstlucie",
+                    "hasAvatar": false,
+                    "objectID": "1424671180"
+                }
+            
